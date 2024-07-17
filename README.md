@@ -8,13 +8,14 @@
 </p>
 </div>
 
-### Panorama General
+# Estrés y Ansiedad en el Ámbito Laboral
+
+### Artículos Informativos
+## Panorama General
 - **Cifras alarmantes:** Se estima que 7 de cada 10 trabajadores en México experimentan estrés laboral en 2024, un aumento del 7% desde 2020.
 - **Impacto significativo:** El estrés laboral no solo afecta la salud mental y física de los trabajadores, sino que también disminuye la productividad y aumenta el absentismo.
 - **Reconocimiento oficial:** En 2024, el Senado de México reconoció el estrés, la ansiedad y la depresión como problemas de salud laboral, buscando reformas a la Ley Federal del Trabajo para combatirlos.
 
-#### Estrés y Ansiedad en el Ámbito Laboral
-### Artículos Informativos
 #### Introducción
 El mundo laboral actual se caracteriza por un ritmo acelerado, exigencias constantes y demandas cada vez más altas. Esta situación puede generar estrés y ansiedad en los trabajadores, afectando negativamente su salud física y mental, su productividad y su calidad de vida en general. En esta sección, presentamos dos artículos informativos que profundizan en el estrés y la ansiedad en el ámbito laboral, explorando sus causas, consecuencias y, lo más importante, estrategias efectivas para prevenirlos y combatirlos.
 
@@ -58,7 +59,7 @@ Te invitamos a explorar los recursos interactivos de nuestra página web, donde 
 👩🏻 Mariana A. Balanzario
 
 
-#### Salud Mental en Estudiantes
+# Salud Mental en Estudiantes
 
 
 
@@ -109,7 +110,7 @@ La salud mental en estudiantes es un tema de vital importancia, ya que el bienes
 
 👩🏻 Estefania Martínez Dávila
 
-### Salud mental en grupos vulnerables 
+# Salud mental en grupos vulnerables 
 
 ## ¿Quiénes son los grupos vulnerables y por qué requieren atención especial?
 
@@ -121,13 +122,13 @@ Un grupo vulnerable se caracteriza por presentar una mayor susceptibilidad a suf
 
 ## Factores que contribuyen a la vulnerabilidad:
 
-# Condiciones Socioeconómicas
+## Condiciones Socioeconómicas
 - **Pobreza**
 - **Falta de acceso a educación y servicios básicos**
 - **Desempleo**
 - **Precariedad laboral**
 
-# Discriminación y Exclusión
+## Discriminación y Exclusión
 - **Género**
 - **Raza**
 - **Etnia**
@@ -135,12 +136,12 @@ Un grupo vulnerable se caracteriza por presentar una mayor susceptibilidad a suf
 - **Identidad de género**
 - **Discapacidad**
 
-# Marginalización Social
+## Marginalización Social
 - **Aislamiento**
 - **Falta de redes de apoyo**
 - **Exclusión de la participación social y política**
 
-# Experiencias Traumáticas
+## Experiencias Traumáticas
 - **Violencia**
 - **Abuso**
 - **Negligencia**
@@ -154,7 +155,7 @@ Son más propensos a sufrir las consecuencias negativas de los problemas de salu
 
 👩🏻 Rey Ángeles
 
-#### Manejo del Estrés y la Ansiedad: Descubre el Poder de los Diarios de Gratitud
+# Manejo del Estrés y la Ansiedad: Descubre el Poder de los Diarios de Gratitud
 
 <div>
 <p style = 'text-align:center;'>
@@ -203,7 +204,7 @@ En conclusión, manejar el estrés y la ansiedad es crucial para mantener una bu
 - **Comisión Nacional contra las Adicciones:** [https://www.gob.mx/salud%7Cconadic/](https://www.gob.mx/salud%7Cconadic/)
 - **NAMI México:** [https://namipv.org/espanol/](https://namipv.org/espanol)
 
-## Organizaciones:
+# Organizaciones:
 
 Centro de Atención a la Mujer y la Familia (CAMIF): [https://www.facebook.com/camlatinoamericajeme/?locale=es_LA](https://www.facebook.com/camlatinoamericajeme/?locale=es_LA)
 
