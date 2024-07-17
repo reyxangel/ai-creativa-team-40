@@ -136,5 +136,44 @@ Una forma poderosa de incorporar la gratitud en nuestra vida diaria es a través
 El uso de un diario de gratitud no solo promueve la satisfacción con la vida, sino que también nos ayuda a construir resiliencia frente al estrés y la ansiedad. Al revisar nuestras anotaciones, podemos recordar las cosas buenas que hemos experimentado, lo que nos brinda una perspectiva más equilibrada y optimista sobre la vida.
 En conclusión, manejar el estrés y la ansiedad es crucial para mantener una buena salud mental y disfrutar de una vida plena. Incorporar prácticas de gratitud, como llevar un diario de gratitud, puede ser una estrategia altamente efectiva y transformadora. Te invitamos a descargar nuestro ✨ *[Diario de Gratitud](https://drive.google.com/file/d/1Q-jaG4ScWf90QnQs1UJ_u49-XcETpouK/view?usp=drive_link)* ✨ un recurso especialmente diseñado para ayudarte a cultivar la gratitud y mejorar tu bienestar diario. ¡Empieza hoy mismo y descubre el poder de la gratitud en tu vida!
 
+#### Sección de recursos adicionales de salud mental en México:
 
+## Líneas de ayuda:
+
+- **Línea de la Vida:** 800 911 2000 (Atención las 24 horas del día, los 365 días del año)
+- **SAPTEL:** 55 5559 1111 (Atención las 24 horas del día, los 365 días del año)
+- **Línea Nacional para la Prevención del Suicidio:** 800 424 5300 (Atención las 24 horas del día, los 365 días del año)
+- **Línea de apoyo emocional para personal de salud:** 55 5510 8000 (Atención de lunes a viernes de 8:00 a 18:00 horas)
+
+## Sitios web:
+
+- **Secretaría de Salud:** [https://www.gob.mx/salud](https://www.gob.mx/salud)
+- **Instituto Nacional de Salud Mental:** [https://inprf.gob.mx/](https://inprf.gob.mx)
+- **Comisión Nacional contra las Adicciones:** [https://www.gob.mx/salud%7Cconadic/](https://www.gob.mx/salud%7Cconadic/)
+- **NAMI México:** [https://namipv.org/espanol/](https://namipv.org/espanol)
+
+## Organizaciones:
+
+Centro de Atención a la Mujer y la Familia (CAMIF): [https://www.facebook.com/camlatinoamericajeme/?locale=es_LA](https://www.facebook.com/camlatinoamericajeme/?locale=es_LA)
+
+Red Nacional de Refugios: [https://rednacionalderefugios.org.mx/](https://rednacionalderefugios.org.mx/)
+
+Asociación Mexicana de Psiquiatría: [https://psiquiatrasapm.org.mx](https://psiquiatrasapm.org.mx)/
+
+
+ <p style="color: red; font-size: 14px;">
+  <em>Es importante recordar que no estás solo. Hay muchas personas que se preocupan por ti y quieren ayudar. Si tú o alguien que conoces está luchando con problemas de salud mental, por favor, busca ayuda.</em>
+</p>
+
+- **Centro de Atención a la Mujer y la Familia (CAMIF):** [https://www.facebook.com/camlatinoamericajeme/?locale=es_LA](https://www.facebook.com/camlatinoamericajeme/?locale=es_LA)
+- **Red Nacional de Refugios:** [https://rednacionalderefugios.org.mx/](https://rednacionalderefugios.org.mx/)
+- **Asociación Mexicana de Psiquiatría:** [https://psiquiatrasapm.org.mx](https://psiquiatrasapm.org.mx)
+
+
+
+## Aquí hay algunos recursos adicionales que pueden ser útiles:
+
+- **Directorio de Unidades de Salud Mental:** [https://www.gob.mx/salud/documentos/directorio-de-hospitales-psiquiatricos](https://www.gob.mx/salud/documentos/directorio-de-hospitales-psiquiatricos)
+- **Plan Sectorial de Salud Mental y Adicciones 2023-2024:** [https://www.gob.mx/salud/prensa/autoridades-presentan-plan-sectorial-de-salud-mental-y-adicciones-2023-2024](https://www.gob.mx/salud/prensa/autoridades-presentan-plan-sectorial-de-salud-mental-y-adicciones-2023-2024)
+- **Programa Integral de Salud Mental 2021-2024:** [http://www.imss.gob.mx/prensa/archivo/202307/324](http://www.imss.gob.mx/prensa/archivo/202307/324)
 
