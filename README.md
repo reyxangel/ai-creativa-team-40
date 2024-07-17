@@ -1,5 +1,5 @@
 ### Team 40 
-## **Creación de Contenido con ChatGPT** 
+## **Creación de Contenido informativo con ChatGPT** 
 ## *Contenido para sitio web*
 
 <div>
@@ -55,6 +55,8 @@ Te invitamos a explorar los recursos interactivos de nuestra página web, donde 
 </p>
 </div>
 
+👩🏻 Mariana A. Balanzario
+
 
 #### Salud Mental en Estudiantes
 
@@ -105,6 +107,53 @@ La salud mental en estudiantes es un tema de vital importancia, ya que el bienes
 - **Promoción de un Entorno Saludable**
 - **Modelos de Colaboración Exitosa**
 
+👩🏻 Estefania Martínez Dávila
+
+### Salud mental en grupos vulnerables 
+
+## ¿Quiénes son los grupos vulnerables y por qué requieren atención especial?
+
+En el contexto social actual, la salud mental y el bienestar integral de las personas son temas de vital importancia. Sin embargo, diversos grupos poblacionales, como las mujeres, los indígenas y la comunidad LGBTQ+, se encuentran en una situación de mayor vulnerabilidad frente a los desafíos que afectan la salud mental.
+
+## ¿Qué define a un grupo vulnerable?
+
+Un grupo vulnerable se caracteriza por presentar una mayor susceptibilidad a sufrir desventajas, discriminación o exclusión social, lo que los coloca en una posición de mayor riesgo frente a diversos desafíos, incluyendo aquellos relacionados con la salud mental.
+
+## Factores que contribuyen a la vulnerabilidad:
+
+# Condiciones Socioeconómicas
+- **Pobreza**
+- **Falta de acceso a educación y servicios básicos**
+- **Desempleo**
+- **Precariedad laboral**
+
+# Discriminación y Exclusión
+- **Género**
+- **Raza**
+- **Etnia**
+- **Orientación sexual**
+- **Identidad de género**
+- **Discapacidad**
+
+# Marginalización Social
+- **Aislamiento**
+- **Falta de redes de apoyo**
+- **Exclusión de la participación social y política**
+
+# Experiencias Traumáticas
+- **Violencia**
+- **Abuso**
+- **Negligencia**
+- **Desplazamiento forzado**
+- **Desastres naturales**
+
+## ¿Por qué es importante prestar atención a los grupos vulnerables?
+
+Los grupos vulnerables requieren atención especial debido a que están expuestos a un mayor riesgo de sufrir problemas de salud mental: Las condiciones de vida precarias, la discriminación y las experiencias traumáticas pueden aumentar significativamente la probabilidad de desarrollar trastornos mentales como depresión, ansiedad, estrés postraumático y trastornos psicóticos.Enfrentan mayores barreras para acceder a servicios de salud mental como la falta de recursos, la discriminación y el estigma asociado a los problemas de salud mental pueden dificultar el acceso a la atención y el tratamiento adecuados.
+Son más propensos a sufrir las consecuencias negativas de los problemas de salud mental: La falta de atención oportuna puede agravar los problemas de salud mental, limitar las oportunidades de desarrollo personal y profesional, e incluso aumentar el riesgo de suicidio.
+
+👩🏻 Rey Ángeles
+
 #### Manejo del Estrés y la Ansiedad: Descubre el Poder de los Diarios de Gratitud
 
 <div>
@@ -136,6 +185,8 @@ Una forma poderosa de incorporar la gratitud en nuestra vida diaria es a través
 El uso de un diario de gratitud no solo promueve la satisfacción con la vida, sino que también nos ayuda a construir resiliencia frente al estrés y la ansiedad. Al revisar nuestras anotaciones, podemos recordar las cosas buenas que hemos experimentado, lo que nos brinda una perspectiva más equilibrada y optimista sobre la vida.
 En conclusión, manejar el estrés y la ansiedad es crucial para mantener una buena salud mental y disfrutar de una vida plena. Incorporar prácticas de gratitud, como llevar un diario de gratitud, puede ser una estrategia altamente efectiva y transformadora. Te invitamos a descargar nuestro ✨ *[Diario de Gratitud](https://drive.google.com/file/d/1Q-jaG4ScWf90QnQs1UJ_u49-XcETpouK/view?usp=drive_link)* ✨ un recurso especialmente diseñado para ayudarte a cultivar la gratitud y mejorar tu bienestar diario. ¡Empieza hoy mismo y descubre el poder de la gratitud en tu vida!
 
+👨🏻 Manuel Sánchez Márín
+
 #### Sección de recursos adicionales de salud mental en México:
 
 ## Líneas de ayuda:
@@ -161,9 +212,8 @@ Red Nacional de Refugios: [https://rednacionalderefugios.org.mx/](https://rednac
 Asociación Mexicana de Psiquiatría: [https://psiquiatrasapm.org.mx](https://psiquiatrasapm.org.mx)/
 
 
- <p style="color: red; font-size: 14px;">
-  <em>Es importante recordar que no estás solo. Hay muchas personas que se preocupan por ti y quieren ayudar. Si tú o alguien que conoces está luchando con problemas de salud mental, por favor, busca ayuda.</em>
-</p>
+### ** Es importante recordar que no estás solo. Hay muchas personas que se preocupan por ti y quieren ayudar. Si tú o alguien que conoces está luchando con problemas de salud mental, por favor, busca ayuda.**
+
 
 - **Centro de Atención a la Mujer y la Familia (CAMIF):** [https://www.facebook.com/camlatinoamericajeme/?locale=es_LA](https://www.facebook.com/camlatinoamericajeme/?locale=es_LA)
 - **Red Nacional de Refugios:** [https://rednacionalderefugios.org.mx/](https://rednacionalderefugios.org.mx/)
