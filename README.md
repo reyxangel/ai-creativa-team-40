@@ -134,7 +134,7 @@ Una forma poderosa de incorporar la gratitud en nuestra vida diaria es a través
 </div>
 
 El uso de un diario de gratitud no solo promueve la satisfacción con la vida, sino que también nos ayuda a construir resiliencia frente al estrés y la ansiedad. Al revisar nuestras anotaciones, podemos recordar las cosas buenas que hemos experimentado, lo que nos brinda una perspectiva más equilibrada y optimista sobre la vida.
-En conclusión, manejar el estrés y la ansiedad es crucial para mantener una buena salud mental y disfrutar de una vida plena. Incorporar prácticas de gratitud, como llevar un diario de gratitud, puede ser una estrategia altamente efectiva y transformadora. Te invitamos a descargar nuestro ✨ *Diario de Gratitud* ✨ un recurso especialmente diseñado para ayudarte a cultivar la gratitud y mejorar tu bienestar diario. ¡Empieza hoy mismo y descubre el poder de la gratitud en tu vida!
+En conclusión, manejar el estrés y la ansiedad es crucial para mantener una buena salud mental y disfrutar de una vida plena. Incorporar prácticas de gratitud, como llevar un diario de gratitud, puede ser una estrategia altamente efectiva y transformadora. Te invitamos a descargar nuestro ✨ *[Diario de Gratitud](https://drive.google.com/file/d/1Q-jaG4ScWf90QnQs1UJ_u49-XcETpouK/view?usp=drive_link)* ✨ un recurso especialmente diseñado para ayudarte a cultivar la gratitud y mejorar tu bienestar diario. ¡Empieza hoy mismo y descubre el poder de la gratitud en tu vida!
 
 
 
